@@ -62,9 +62,10 @@ body {
   min-height: 50rem;
   background-color: var(--color-grey-light-1);
   box-shadow: var(--shadow-dark); }
-  @media only screen and (max-width: 68.75em) {
+  @media only screen and (max-width: 75em) {
     .container {
       margin: 0;
+      margin-bottom: 0;
       width: 100%;
       max-width: 100%; } }
 
